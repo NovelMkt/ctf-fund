@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL-injections fundamentals.md",
+                "file": "DB fundamentals.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL-injections fundamentals.md",
+                "file": "DB fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL-injections fundamentals.md",
+                "file": "DB fundamentals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL-injections fundamentals.md"
+                "file": "DB fundamentals.md"
               }
             }
           }
@@ -148,7 +148,11 @@
   },
   "active": "2df14035f0fc23e1",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "SQL-injections fundamentals.md"
+    "Introduction to MySQL.md",
+    "DB fundamentals.md",
+    "Pasted image 20231125182524.png",
+    "Pasted image 20231125182511.png",
+    "Pasted image 20231125182444.png",
+    "Untitled.canvas"
   ]
 }
