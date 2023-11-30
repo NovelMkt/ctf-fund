@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DB fundamentals.md",
+                "file": "Introduction to MySQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "340c3bfbc08c7d1f",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DB fundamentals.md",
+                "file": "Introduction to MySQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DB fundamentals.md",
+                "file": "Introduction to MySQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DB fundamentals.md"
+                "file": "Introduction to MySQL.md"
               }
             }
           }
@@ -148,8 +149,8 @@
   },
   "active": "2df14035f0fc23e1",
   "lastOpenFiles": [
-    "Introduction to MySQL.md",
     "DB fundamentals.md",
+    "Introduction to MySQL.md",
     "Pasted image 20231125182524.png",
     "Pasted image 20231125182511.png",
     "Pasted image 20231125182444.png",
